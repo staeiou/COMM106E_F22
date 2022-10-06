@@ -1,0 +1,11 @@
+Age,Ethnicity1,Ethnicity2,Education
+What is your age?,"Are you of Hispanic, Latino, or Spanish origin?",How would you describe yourself? Please select all that apply.,What is the highest degree or level of school you have completed?
+"{""ImportId"":""QID2""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}"
+18 - 24,No,White,"Doctorate or professional degree (e.g. MD, DDS, PhD)"
+Under 18,No,White,"Doctorate or professional degree (e.g. MD, DDS, PhD)"
+35 - 44,Yes,White,"Some college, no degree"
+18 - 24,Yes,Other,"Bachelor's degree (e.g. BA, BS)"
+18 - 24,Yes,Other,High school degree or equivalent (e.g. GED)
+18 - 24,No,White,High school degree or equivalent (e.g. GED)
+25 - 34,No,White,High school degree or equivalent (e.g. GED)
+25 - 34,No,Black or African American,High school degree or equivalent (e.g. GED)
